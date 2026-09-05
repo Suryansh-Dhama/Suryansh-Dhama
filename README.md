@@ -1,10 +1,17 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="ujjwalshriv3" width="100%" />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
 
-<h1>Hi Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Suryansh Dhama </h1>
-<br/>
+<div align="center">
+  <h1>
+    <a href="https://github.com/Suryansh-Dhama">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=266ac9&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Suryansh+Dhama" alt="Suryansh Hii" />
+    </a>
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ujjwalshriv3&color=blue&logo=flat)
+---
 
 
 A passionate Software Developer || AI/ML Enthusiast || Future Tech Innovator from India
